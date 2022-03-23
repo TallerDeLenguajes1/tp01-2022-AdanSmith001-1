@@ -20,4 +20,4 @@ Pues, el procedimiento es muy sencillo y se puede hacer de dos maneras:
     # 2) Usando Git Bash:
     Para esto, debes abrir Git Bash desde tu repositorio local y ejecutar el comando "_touch .gitignore_". Luego, accedes a tu archivo _.gitignore_ y determinan los archivos, patrones de archivos o carpetas que desea que Git ignore.
     
-    #### SALUDOS 😄👍
+   #### SALUDOS 😄👍
